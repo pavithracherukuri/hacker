@@ -1,5 +1,5 @@
 import React from 'react';
-
+import {useState,useEffect} from 'react';
 function Slides({slides}) {
   const [slideState, changeSlide]=useState(0);
 
