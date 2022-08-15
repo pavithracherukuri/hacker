@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-import 'h8k-components';
 
 import Slides from './components/Slides';
 const title = "Slideshow App";
